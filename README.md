@@ -8,8 +8,7 @@ This project was initiated as part of the Smart India Hackathon (SIH), where the
 
 ## Documentation-
 ###  Model Architecture -
-![WhatsApp Image 2024-09-30 at 13 37 16](https://github.com/user-attachments/assets/c51e67b4-1cec-4e7b-bf3c-6ed22a356dd8)
-
+**![WhatsApp Image 2024-09-30 at 13 37 16](https://github.com/user-attachments/assets/c51e67b4-1cec-4e7b-bf3c-6ed22a356dd8)**
 
 
 
