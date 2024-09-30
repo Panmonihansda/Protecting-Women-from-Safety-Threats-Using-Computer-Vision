@@ -8,7 +8,8 @@ This project was initiated as part of the Smart India Hackathon (SIH), where the
 
 ## Documentation-
 ###  Model Architecture -
-![Image1](https://github.com/user-attachments/assets/ea0212e2-be27-4e4d-85b7-212061ac985b)
+![Image4](https://github.com/user-attachments/assets/e60f4f42-7c25-44c4-82c9-e15ac6f25e80)
+
 
 
 
