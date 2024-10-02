@@ -10,6 +10,9 @@ This project was initiated as part of the Smart India Hackathon (SIH), where the
 ###  Model Architecture -
 ![Model (1)](https://github.com/user-attachments/assets/bbc0d7ba-3181-4826-b209-05ec206660e7)
 
+### User Interface - 
+![Model (1)](https://github.com/user-attachments/assets/bbc0d7ba-3181-4826-b209-05ec206660e7)
+
 
 
 
