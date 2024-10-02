@@ -28,9 +28,9 @@ The architecture of this project consists of multiple modules for detecting pers
 5. Hotspot Detection: Using DBSCAN and GRU, the model detects locations with repeated instances of potential danger, identifying unsafe zones or "hotspots."
 
 ## Authors - 
-Team Name : Guardian Eye
-Authors: Debasish Das,Subham , Panmoni, Nidhi, Vandana , Aditya 
-Email: iamdebasishdas123@gmail.com
+Team Name : Guardian eye
+Authors : Debasish Das, Shubham Niranjan, Panmoni Hansda, Nidhi Saini, Vandana Pandey, Aditya Yogeshwar 
+
 
 
 
