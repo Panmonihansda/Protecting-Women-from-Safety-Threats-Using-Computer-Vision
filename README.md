@@ -15,8 +15,8 @@ This project was initiated as part of the Smart India Hackathon (SIH), where the
 
 The architecture of this project consists of multiple modules for detecting persons, analyzing gender ratios, detecting emotions, and generating SOS alerts when necessary. The system leverages:
 
-•YOLOv8 for real-time person detection.
-•MediaPipe for pose and facial expression detection.
+##### •YOLOv8 for real-time person detection.
+##### •MediaPipe for pose and facial expression detection.
 •Transformers for gender detection.
 •MobileNet for violence detection.
 •DBSCAN and GRU for hotspot analysis.
