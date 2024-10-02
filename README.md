@@ -11,7 +11,7 @@ This project was initiated as part of the Smart India Hackathon (SIH), where the
 ![Model (1)](https://github.com/user-attachments/assets/bbc0d7ba-3181-4826-b209-05ec206660e7)
 
 ### User Interface - 
-![Model (1)](https://github.com/user-attachments/assets/bbc0d7ba-3181-4826-b209-05ec206660e7)
+![UI](https://github.com/user-attachments/assets/c3e0773f-efef-4705-b270-065ad101c6d8)
 
 
 
